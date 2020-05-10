@@ -62,6 +62,7 @@ const Sidebar: React.FC<IProps> = props => {
           }
         >
           <ListMenu displayLetter={ "Top" } linkAddr={ "top-page" } />
+          <ListMenu displayLetter={ "My Task" } linkAddr={ "my-task" } />
         </List>
       </div>
     </Drawer>

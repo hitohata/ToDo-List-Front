@@ -11,7 +11,7 @@ import Topbar from "./components/Topbar/Topbar";
 import Sidebar from "./components/Sidebar/Sidebar";
 
 interface IProps {
-  children: React.ReactChild;
+  children: React.ReactChild[];
 }
 
 const useStyles = makeStyles((theme: Theme) =>
