@@ -17,20 +17,3 @@ export const myTask: IMyTask[] = [
         detail: "solt"
     }
 ]
-
-/*
-export const myTask: IMyTask[] = [
-    {
-        "title": "house work",
-        "detail": "Dish-washing"
-    },
-    {
-        "title": "house work",
-        "detail": "clean up"
-    },
-    {
-        "title": "shopping",
-        "detail": "solt"
-    }
-]
-*/
